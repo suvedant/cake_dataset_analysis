@@ -72,7 +72,7 @@ The project demonstrates skills in data cleaning, exploration, and visualization
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/cake-dataset-analysis.git
+https://github.com/suvedant/cake_dataset_analysis
 ```
 
 2. Install required libraries:
@@ -88,12 +88,6 @@ jupyter notebook
 ```
 
 4. Run all cells step-by-step
-
----
-
-## 📸 Output
-
-(Add screenshots of graphs and outputs here)
 
 ---
 
