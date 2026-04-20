@@ -72,7 +72,7 @@ The project demonstrates skills in data cleaning, exploration, and visualization
 1. Clone the repository:
 
 ```
-https://github.com/suvedant/cake_dataset_analysis
+https://github.com/suvedant/cake_dataset_analysis.git
 ```
 
 2. Install required libraries:
