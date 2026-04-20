@@ -1,0 +1,106 @@
+sr.no,Weight (grams),Price (INR),Calories,Flavor,Type ,Occasion,Frosting,Dietary Restriction
+1,500,800,2000,Chocolate,Sponge,Birthday,Buttercream,Gluten-Free
+2,750,1200,3000,Vanilla,Layer,Wedding,Fondant,None
+3,450,600,1800,Strawberry,Cheesecake,Casual,Whipped Cream,Vegan
+4,1000,1500,4000,Red Velvet,Layer,Anniversary,Cream Cheese,None
+5,300,500,1200,Mango,Sponge,Party,Buttercream,Sugar-Free
+6,1412,1114,4994,Red Velvet,Layer,Festival,Fondant,None
+7,646,1692,1902,Pineapple,Mousse,Party,Whipped Cream,Sugar-Free
+8,1345,1618,4279,Blueberry,Cheesecake,Wedding,Cream Cheese,Sugar-Free
+9,1105,1542,1547,Coffee,Bundt,Anniversary,Fondant,None
+10,1026,1721,4693,Butterscotch,Mousse,Casual,No Frosting,Sugar-Free
+11,1276,1370,2563,Butterscotch,Mousse,Party,Cream Cheese,Vegan
+12,420,1539,4671,Red Velvet,Bundt,Festival,Fondant,Sugar-Free
+13,467,532,1420,Mango,Cheesecake,Party,Whipped Cream,Sugar-Free
+14,1000,2034,3474,Coffee,Cheesecake,Party,Whipped Cream,Vegan
+15,637,1307,2197,Red Velvet,Bundt,Party,No Frosting,Vegan
+16,489,584,1927,Butterscotch,Layer,Wedding,Ganache,Gluten-Free
+17,1154,1213,4485,Butterscotch,Cupcake,Festival,Cream Cheese,None
+18,973,2641,3031,Mango,Sponge,Birthday,Whipped Cream,None
+19,773,1602,2762,Mango,Mousse,Birthday,Whipped Cream,Gluten-Free
+20,542,2189,2414,Butterscotch,Bundt,Anniversary,Cream Cheese,Vegan
+21,1303,2381,3655,Red Velvet,Mousse,Anniversary,Cream Cheese,Gluten-Free
+22,668,2438,3388,Red Velvet,Cheesecake,Wedding,Ganache,None
+23,1462,2504,2400,Coffee,Cupcake,Casual,Whipped Cream,Vegan
+24,935,2567,3442,Butterscotch,Bundt,Festival,Whipped Cream,Nut-Free
+25,420,1216,1626,Coffee,Cupcake,Party,No Frosting,None
+26,1368,1774,3144,Blueberry,Sponge,Festival,Fondant,Vegan
+27,576,1828,2218,Pineapple,Cheesecake,Party,Ganache,Sugar-Free
+28,1294,615,3841,Blueberry,Bundt,Anniversary,Cream Cheese,None
+29,1312,2817,2956,Pineapple,Cupcake,Wedding,Fondant,Nut-Free
+30,844,1366,2969,Vanilla,Layer,Casual,Ganache,Sugar-Free
+31,1470,1728,1498,Butterscotch,Cheesecake,Wedding,No Frosting,None
+32,1403,725,4586,Chocolate,Mousse,Casual,Buttercream,Sugar-Free
+33,1426,2032,4310,Chocolate,Bundt,Party,Buttercream,Nut-Free
+34,1335,652,4736,Coffee,Cheesecake,Festival,Whipped Cream,Gluten-Free
+35,655,2355,2749,Pineapple,Bundt,Casual,Buttercream,Vegan
+36,689,2180,2369,Coffee,Bundt,Festival,Whipped Cream,Sugar-Free
+37,1396,743,4754,Coffee,Layer,Birthday,Whipped Cream,None
+38,1249,2401,3750,Red Velvet,Bundt,Casual,Cream Cheese,Gluten-Free
+39,1428,2953,2972,Coffee,Layer,Party,Fondant,Gluten-Free
+40,1038,2783,2307,Pineapple,Bundt,Birthday,Whipped Cream,Vegan
+41,1313,1786,2452,Mango,Cheesecake,Wedding,Whipped Cream,Sugar-Free
+42,1394,793,1310,Chocolate,Cheesecake,Wedding,Whipped Cream,None
+43,378,822,4706,Red Velvet,Cheesecake,Wedding,Cream Cheese,Vegan
+44,912,901,1946,Mango,Cupcake,Festival,Fondant,Nut-Free
+45,1391,1022,1279,Butterscotch,Cupcake,Birthday,No Frosting,Vegan
+46,1299,1341,1803,Blueberry,Cheesecake,Festival,Fondant,Nut-Free
+47,847,2951,2025,Blueberry,Mousse,Anniversary,Cream Cheese,Vegan
+48,1364,1922,4728,Blueberry,Cupcake,Casual,Fondant,Nut-Free
+49,654,2979,1203,Mango,Cupcake,Casual,Fondant,None
+50,479,2101,4111,Blueberry,Cheesecake,Birthday,Whipped Cream,Vegan
+51,497,732,4369,Blueberry,Cheesecake,Wedding,Cream Cheese,Nut-Free
+52,728,1214,4897,Vanilla,Mousse,Festival,Cream Cheese,None
+53,738,1091,1285,Blueberry,Layer,Festival,Fondant,None
+54,1242,884,4447,Mango,Layer,Wedding,Fondant,Gluten-Free
+55,1187,804,2696,Pineapple,Cupcake,Wedding,Cream Cheese,Gluten-Free
+56,677,1136,3780,Red Velvet,Sponge,Festival,No Frosting,Sugar-Free
+57,826,1076,3169,Mango,Mousse,Party,No Frosting,Nut-Free
+58,453,2161,1677,Blueberry,Bundt,Anniversary,No Frosting,Gluten-Free
+59,412,1771,4854,Butterscotch,Cupcake,Casual,Fondant,Nut-Free
+60,1158,923,3663,Strawberry,Mousse,Wedding,Ganache,Sugar-Free
+61,1014,2072,2161,Coffee,Cheesecake,Festival,No Frosting,None
+62,302,1488,4010,Pineapple,Bundt,Party,Whipped Cream,Gluten-Free
+63,564,617,4264,Mango,Cupcake,Casual,Whipped Cream,Nut-Free
+64,969,1512,4644,Red Velvet,Sponge,Anniversary,Cream Cheese,Nut-Free
+65,1072,2139,4213,Red Velvet,Sponge,Festival,Cream Cheese,Vegan
+66,378,2161,3597,Blueberry,Bundt,Birthday,Whipped Cream,None
+67,1313,802,2692,Blueberry,Cupcake,Casual,Fondant,None
+68,1367,2296,4423,Red Velvet,Cheesecake,Party,Fondant,Sugar-Free
+69,472,1282,4308,Vanilla,Layer,Casual,Ganache,Nut-Free
+70,946,2741,4221,Pineapple,Layer,Casual,Whipped Cream,Nut-Free
+71,512,1956,4299,Red Velvet,Sponge,Birthday,No Frosting,None
+72,1039,1010,3826,Vanilla,Cupcake,Birthday,Fondant,None
+73,371,2098,3588,Butterscotch,Mousse,Casual,Fondant,None
+74,329,647,3276,Butterscotch,Cupcake,Anniversary,Buttercream,Vegan
+75,1225,2699,4445,Red Velvet,Layer,Anniversary,Whipped Cream,Gluten-Free
+76,953,1586,4471,Vanilla,Mousse,Party,Buttercream,Sugar-Free
+77,387,566,3789,Red Velvet,Sponge,Wedding,Fondant,Nut-Free
+78,848,1413,2308,Mango,Cheesecake,Casual,No Frosting,Nut-Free
+79,821,1301,1898,Chocolate,Cupcake,Casual,Buttercream,Gluten-Free
+80,905,2089,1542,Pineapple,Bundt,Casual,No Frosting,Gluten-Free
+81,1460,2607,1240,Red Velvet,Mousse,Birthday,Cream Cheese,None
+82,1387,1421,4798,Blueberry,Bundt,Party,Whipped Cream,Gluten-Free
+83,802,846,3746,Chocolate,Layer,Wedding,Whipped Cream,Sugar-Free
+84,930,2189,2291,Vanilla,Layer,Casual,Whipped Cream,None
+85,486,674,2927,Vanilla,Mousse,Party,Ganache,Vegan
+86,560,2710,3199,Chocolate,Bundt,Wedding,Cream Cheese,None
+87,840,1748,4900,Vanilla,Mousse,Wedding,Fondant,Gluten-Free
+88,1203,712,2238,Pineapple,Cupcake,Festival,Ganache,Gluten-Free
+89,1400,582,3578,Red Velvet,Sponge,Wedding,No Frosting,None
+90,333,2185,2532,Pineapple,Mousse,Festival,Whipped Cream,Gluten-Free
+91,858,942,3858,Pineapple,Bundt,Party,No Frosting,Sugar-Free
+92,452,2483,4548,Pineapple,Mousse,Anniversary,Buttercream,Sugar-Free
+93,559,1036,4629,Blueberry,Cupcake,Party,No Frosting,Vegan
+94,1212,594,4416,Blueberry,Mousse,Anniversary,No Frosting,Sugar-Free
+95,449,1870,2880,Blueberry,Cupcake,Casual,Fondant,Gluten-Free
+96,542,2155,2587,Blueberry,Bundt,Party,Buttercream,Nut-Free
+97,1411,1123,1607,Mango,Layer,Wedding,Cream Cheese,Gluten-Free
+98,790,2955,2796,Blueberry,Cupcake,Anniversary,No Frosting,Gluten-Free
+99,1399,2224,4920,Pineapple,Layer,Wedding,No Frosting,Gluten-Free
+100,768,934,3139,Chocolate,Cupcake,Casual,Cream Cheese,Nut-Free
+101,1247,2708,1328,Coffee,Mousse,Casual,Buttercream,Vegan
+102,1053,1084,2889,Mango,Sponge,Birthday,Cream Cheese,None
+103,580,701,4510,Butterscotch,Layer,Wedding,No Frosting,Vegan
+104,1145,1741,4586,Strawberry,Cheesecake,Anniversary,Buttercream,Gluten-Free
+105,1041,1179,3816,Pineapple,Layer,Casual,No Frosting,Nut-Free
